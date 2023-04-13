@@ -1,1 +1,2 @@
-# fd_build
+# hello-world
+Hello world new project template.
